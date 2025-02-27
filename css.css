@@ -1,0 +1,12 @@
+.header{
+    background-image: url('istockphoto-1294598266-612x612.jpg');
+    background-size: cover;
+}
+
+.footer{
+   background-color:#ff7a21;
+   
+}
+.nav{
+    font-family: "Poppins", serif;
+}
